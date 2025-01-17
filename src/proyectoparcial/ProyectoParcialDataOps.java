@@ -22,7 +22,8 @@ public class ProyectoParcialDataOps {
      descuento = sueldo_bruto * 0.13;
      sueldo_neto = sueldo_bruto - descuento;
      //salida de datos
-     System.out.println("Resultados de la Operacion");
+      System.out.println("Cambio alteracion de Scrip 16/01/2025");
+     System.out.println("Resultados de la Operacion para Practica DataOps");
      System.out.println("Sueldo Bruto: "+sueldo_bruto);
      System.out.println("Descuento: "+descuento);
      System.out.println("Sueldo Neto: "+sueldo_neto);
